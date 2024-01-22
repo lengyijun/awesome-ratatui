@@ -52,6 +52,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-textarea](https://crates.io/crates/tui-textarea) - A simple yet powerful text editor widget for ratatui and tui-rs.
 - [tui-tree-widget](https://crates.io/crates/tui-tree-widget) - Tree widget for ratatui.
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
+- [mdcat-ratatui](https://github.com/lengyijun/mdcat-ratatui/tree/ratatui/pulldown-cmark-mdcat) - Make [mdcat](https://github.com/swsnr/mdcat) run in ratatui.
 
 ### 🔧 Utilities
 
